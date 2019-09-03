@@ -5,4 +5,4 @@
 - [x] posted personal bio
 - [x] Completed lectures 00, 01A, 01B
 
-#Week 2
+# Week 2
