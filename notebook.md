@@ -11,3 +11,10 @@
 - [x] researched microsoft azure offering
 - [x] submited assignment 1
 - [x] started assignment 2
+
+# Week 3
+
+- [x] completed week 3 lecture videos
+- [x] researched docker offering
+- [x] completed assignment 2
+- [x] completed assignment 3
