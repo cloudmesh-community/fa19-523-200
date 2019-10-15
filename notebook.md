@@ -18,3 +18,13 @@
 - [x] researched docker offering
 - [x] completed assignment 2
 - [x] completed assignment 3
+
+# Week 4
+
+- [x] completed week 4 lecture videos
+- [x] researched Monte Carlo
+- [x] researched Markov Chain Monte Carlo
+- [x] completed assignment 4
+- [x] started researching project ideas
+
+
