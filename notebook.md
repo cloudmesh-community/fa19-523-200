@@ -28,3 +28,8 @@
 - [x] started researching project ideas
 
 
+# Week 5
+- [x] Completed Deep learning lecture videos
+- [x] Submitted Assignment 5
+- [x] Had initial group meeting for boomanager project
+- [x] Started researching flask framework
