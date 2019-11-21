@@ -48,3 +48,8 @@
 - [x] Started researching how to take Jtree data and convert back to yaml
 - [x] Added Docker File to service
 - [x] Added instructions on how to use the docker file. 
+
+# Week 9
+- [x] Complted logic to take jtree data and convert to YAML
+- [x] Researching how to use the bookmanager command within service to gnerate YAML File
+
