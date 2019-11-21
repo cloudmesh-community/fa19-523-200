@@ -33,3 +33,18 @@
 - [x] Submitted Assignment 5
 - [x] Had initial group meeting for boomanager project
 - [x] Started researching flask framework
+
+# Week 6
+- [x] Completed Assignment 6
+- [x] Researched Big Data in sports
+- [x] Created initial service via flask
+
+# Week 7
+- [x] Added Jtree Logic to service
+- [x] Added logic to display YAML file content within JTREE
+- [x] Add CSS to the Flask Service
+
+# Week 8
+- [x] Started researching how to take Jtree data and convert back to yaml
+- [x] Added Docker File to service
+- [x] Added instructions on how to use the docker file. 
