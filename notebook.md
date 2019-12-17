@@ -54,14 +54,23 @@
 - [x] Researching how to use the bookmanager command within service to gnerate YAML File
 
 # Week 10
+- [x] Continued Research on week 9 tasks
+
+
+# Week 11
 - [x] Completed YAML generation via using bookmanager command via  command line. 
 - [x] Created a bmservice.py file to run when using bookmanager-service
 
-# Week 11
+# Week 12
+- [x] Implimented routes to allow user to navigate to the download page 
+
+# Week 13
 - [x] Added SSH logic to YAML file so that if a book is already created the bookmanager does not need to create it
 - [x] Shifted the bmservice.py file to the command interface 
 
-# Week 12
+# Week 14
 - [x] Cleaned up the bookmanager-service directory to only include required files. 
 - [x] Verified service is up and running
+
+
 
